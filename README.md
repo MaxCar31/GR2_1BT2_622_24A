@@ -16,7 +16,7 @@ Este proyecto es un sistema de gestión de usuarios específicamente diseñado p
    ```bash
    git clone https://github.com/MaxCar31/GR2_1BT2_622_24A.git
 
-2. Importa el proyecto en tu IDE favorito (Eclipse, IntelliJ, etc.).
+2. Importa y configura el proyecto en tu IDE favorito (Eclipse, IntelliJ, etc.).
 3. Configura el servidor Apache Tomcat en tu IDE y asegúrate de que esté en ejecución.
 4. Crea una base de datos MySQL llamada demo y asegúrate de que el servidor MySQL esté en ejecución.
 5. Configura las credenciales de la base de datos 
